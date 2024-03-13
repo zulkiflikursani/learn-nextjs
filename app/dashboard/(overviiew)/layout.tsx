@@ -1,4 +1,4 @@
-import SideNav from '../ui/dashboard/sidenav';
+import SideNav from '../../ui/dashboard/sidenav';
 
 import React from 'react';
 
